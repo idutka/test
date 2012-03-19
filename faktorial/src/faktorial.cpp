@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : faktorial.cpp
-// Author      : 
+// Author      : ----
 // Version     :  20:02
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
